@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791384082809,
+      "tag": "0000_mushy_boomerang",
+      "breakpoints": true
+    }
+  ]
+}
